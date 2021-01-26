@@ -1,1 +1,3 @@
-# AppJsErrado
+# AppJsCerto:
+
+https://github.com/the-road-to-graphql/react-graphql-github-vanilla/blob/master/src/App.js#L329
